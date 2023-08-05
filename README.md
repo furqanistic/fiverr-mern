@@ -201,7 +201,7 @@ e.g. Publishable key from stripe dashboard
 <a href="https://medium.com/@furqanistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@furqanistic" height="30" width="40" /></a>
 </p>
 
-© 2023 Zuhed Shaikh
+© 2023 Furqan Afzal
 
 ## Show your support
 
